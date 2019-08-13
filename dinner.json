@@ -1,0 +1,12 @@
+{
+
+    "dinner":
+    [
+
+        {"name": "Enchiladas","price" :"$7.99", "calories":"152 calories"},
+        {"name": "Burrito","price" :"$6.99", "calories":"162 calories"},
+        {"name": "Veg  Punjabi Thali","price" :"$15.99", "calories":"192 calories"},
+        {"name": "Sev Ussal","price" :"$7.99", "calories":"162 calories"},
+        {"name": "Pav Bhajji","price" :"$9.99", "calories":"152 calories"}
+    ]
+}

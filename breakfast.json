@@ -1,0 +1,12 @@
+{
+
+    "breakfast":
+    [
+
+        {"name": "Dal Dhokli","price" :"$8.99", "calories":"132 calories"},
+        {"name": "Debra","price" :"$10.99", "calories":"182 calories"},
+        {"name": "Dhokla","price" :"$15.99", "calories":"192 calories"},
+        {"name": "Khaman","price" :"$7.99", "calories":"142 calories"},
+        {"name": "Khandvi","price" :"$9.99", "calories":"152 calories"}
+    ]
+}
